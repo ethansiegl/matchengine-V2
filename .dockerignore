@@ -1,0 +1,6 @@
+Dockerfile
+.git/*
+.idea/*
+__pycache__/*
+tests/__pycache__/*
+*.pyc
